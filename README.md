@@ -17,7 +17,6 @@ Due to the work routine becoming more and more dense and the need for quick repo
 > - From the Pandas and Matplot libraries generate graphs and indicators to insert in PowerPoint presentations.
 > - By means of transport data obtain general supply indicators.
 
-'''
 ## :chart_with_upwards_trend: Results
 
 > - Reports are created in less than 10 seconds, including graphs and indicators.
